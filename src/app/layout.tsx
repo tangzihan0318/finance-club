@@ -8,7 +8,7 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: `HASANNU Finance Club`,
+  title: `HSANNU Finance Club`,
   description: `A platform for you to explore the financial world.`,
   openGraph: {
     images: [HOME_OG_IMAGE_URL],
