@@ -47,10 +47,10 @@ export default function Index() {
           {/* 可选：社团活动信息 */}
           <div className="mt-16 text-center p-8 bg-gray-50 rounded-lg">
             <h3 className="text-2xl font-bold text-gray-900 mb-2">
-              📍 每周社团活动
+              📍 每周二社团活动
             </h3>
             <p className="text-gray-600">
-              时间：每周三下午4点 | 地点：教学楼301
+              时间：每周二下午4点 | 地点：Room 12
             </p>
             <p className="text-gray-500 mt-2">
               欢迎所有对金融感兴趣的同学参加！
