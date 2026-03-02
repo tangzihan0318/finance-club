@@ -6,8 +6,7 @@ const lectures = [
   {
     id: 1,
     title: "Lecture 1: Introduction to Finance",
-    date: "2026-02-28",
-    speaker: "Prof. Smith",
+    date: "2026-03-10",
     description: "金融学入门：货币时间价值、金融市场概述",
     slug: "lecture-1-intro-to-finance"
   },
@@ -57,7 +56,6 @@ export default function LectureReview() {
               </div>
               <p className="text-gray-600 mb-3">{lecture.description}</p>
               <div className="flex items-center text-sm text-gray-500">
-                <span>👨‍🏫 {lecture.speaker}</span>
                 <span className="mx-2">·</span>
                 <span className="text-blue-600">阅读全文 →</span>
               </div>
