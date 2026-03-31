@@ -1,6 +1,6 @@
 import Link from "next/link";
 
-export default function LectureDetailPage({ params }: { params: { slug: string } }) {
+export default function LectureDetailPage({ params }) {
   const content = `
     <h1 class="text-3xl font-bold mt-8 mb-2">Savers and Spenders</h1>
     <p class="text-gray-600 mb-6">– the core of financial services industry</p>
